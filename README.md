@@ -4,4 +4,4 @@
 
  👋 Hi there, I'm Hồ Anh Dương!
 
-Welcome to my GitHub profile! I'm a passionate **Software Engineer** . 
+Welcome to my GitHub profile! I'm a **Software Engineer** . 
