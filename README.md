@@ -1,12 +1,12 @@
 <div>
-  <img align='right' src="https://media.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif" alt="Profile Image" height="200" width="200" style="border-radius:50%">
+  <img align='right' src="https://media.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif" alt="Profile Image" height="200" width="200">
 </div>
 
 # 👋 Hi there, I'm DUONG HO!
 
 Welcome to my GitHub profile!  
 I'm a **Software Engineer**.
-
+<!--
 ---
 
 ## 🚀 About Me
@@ -18,7 +18,7 @@ I'm a **Software Engineer**.
 </p>
 
 ---
-<!--
+
 ## 📊 GitHub Stats
 
 <p align="left">
@@ -34,5 +34,5 @@ I'm a **Software Engineer**.
 
 ---
  -->
-- 💡 Fun fact: I love working a slightly empty stomach ☕
+- 💡 I love working a slightly empty stomach ☕
 
