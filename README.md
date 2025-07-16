@@ -6,10 +6,6 @@
 
 Welcome to my GitHub profile!  
 I'm a **Software Engineer**.
-![DuongHoanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=duonghoanh&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duonghoanh&layout=compact&exclude_repo=duonghoanh.github.io)](https://github.com/duonghoanh)
-
 <!--
 ---
 
